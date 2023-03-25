@@ -1,4 +1,3 @@
-# %%
 
 import matplotlib.pyplot as plt
 
@@ -67,5 +66,3 @@ plt.scatter(annees, resHelen, s=3, c="Black")
 plt.show()
 
 
-
-# %%
